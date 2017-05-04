@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VerticalScrollingTextView</string>
+    <string name="lipsum">"Quisque habitant ut non tellus cum leo consectetur malesuada nisl pharetra nec scelerisque a a parturient leo vulputate eleifend consectetur convallis.Condimentum in ipsum parturient iaculis faucibus sodales a taciti a condimentum a ullamcorper etiam blandit at suscipit malesuada elit laoreet hendrerit a vestibulum nisl.Dapibus diam nostra a condimentum."</string>
+</resources>
